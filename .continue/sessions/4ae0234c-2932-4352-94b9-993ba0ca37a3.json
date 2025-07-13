@@ -1,0 +1,60 @@
+{
+  "sessionId": "4ae0234c-2932-4352-94b9-993ba0ca37a3",
+  "title": "<think>\nAlright, so the",
+  "workspaceDirectory": "/home/dimits/Documents/google/deliberate-lab",
+  "history": [
+    {
+      "message": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "hi! "
+          }
+        ],
+        "id": "c68453e0-4c62-4713-9ba1-39ec3ed8aea0"
+      },
+      "contextItems": [],
+      "editorState": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "hi! "
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "message": {
+        "id": "e3ae0455-74a1-4223-92b6-11a5ef50b67a",
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nHi! How can I assist you today? 😊"
+      },
+      "contextItems": [],
+      "promptLogs": [
+        {
+          "modelTitle": "Deepseek-R1-Llama-7b",
+          "prompt": "<user>\nhi! \n\n",
+          "completion": "<think>\n\n</think>\n\nHi! How can I assist you today? 😊",
+          "completionOptions": {
+            "model": "ollama.com/library/deepseek-r1:7b",
+            "maxTokens": 4096,
+            "stop": [
+              "<｜begin▁of▁sentence｜>",
+              "<｜end▁of▁sentence｜>",
+              "<｜User｜>",
+              "<｜Assistant｜>"
+            ]
+          }
+        }
+      ],
+      "isGatheringContext": false
+    }
+  ]
+}

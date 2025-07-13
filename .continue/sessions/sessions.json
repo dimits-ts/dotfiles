@@ -1,0 +1,266 @@
+[
+  {
+    "sessionId": "4ae0234c-2932-4352-94b9-993ba0ca37a3",
+    "title": "<think>\nAlright, so the",
+    "dateCreated": "1739118823126",
+    "workspaceDirectory": "/home/dimits/Documents/google/deliberate-lab"
+  },
+  {
+    "sessionId": "39ce737e-1c15-4227-aa6b-105d43e84630",
+    "title": "<think>\nAlright, so I",
+    "dateCreated": "1739358261653",
+    "workspaceDirectory": "/home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "0822b383-259a-49b5-ab1a-c708e2fe5998",
+    "title": "<think>\nAlright, let's",
+    "dateCreated": "1739358334565",
+    "workspaceDirectory": "/home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "53de33ee-3d80-442c-ba25-9a41efa02379",
+    "title": "<think>\nOkay, let me try to work through this step",
+    "dateCreated": "1739372622818",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "7070a621-3c20-4c24-9b53-6dc14adff918",
+    "title": "<think>\nAlright, so I need to figure out a good",
+    "dateCreated": "1739372791089",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "74e34ebb-3426-4494-83a4-cb1ddf719518",
+    "title": "<think>\nOkay, I need to figure out an appropriate title",
+    "dateCreated": "1739373288802",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "27ffc734-0c48-4c2b-8bb9-11b676ed253a",
+    "title": "<think>\nOkay, so I've been given this Python class",
+    "dateCreated": "1739374757561",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "a68ac249-e5b2-4c60-a9bd-d5b3e980a1a9",
+    "title": "  Type 'string' is not assignable to type 'ModelResponse'.",
+    "dateCreated": "1740128580161",
+    "workspaceDirectory": "file:///home/dimits/Documents/google/deliberate-lab"
+  },
+  {
+    "sessionId": "5c29a102-cf3f-4478-84d3-1225ee3ecdab",
+    "title": "<think>\nOkay, so I'm trying to fix this error",
+    "dateCreated": "1740475834000",
+    "workspaceDirectory": "file:///home/dimits/Documents/google/deliberate-lab"
+  },
+  {
+    "sessionId": "277c0e36-2fc7-4d34-a7d8-2eb6b565c617",
+    "title": "<think>\nOkay, so I've got this problem here where",
+    "dateCreated": "1740561543904",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "9fee3c4a-5f9a-4bf3-80bd-fa554cdb9d6c",
+    "title": "<think>\nOkay, so I'm trying to figure out how",
+    "dateCreated": "1740998559452",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "d423ee61-5d8b-4764-97c8-473bd9c21297",
+    "title": "implement the _pairwise_diffs funciton graphs.py ",
+    "dateCreated": "1740998829944",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "a6dcd9f0-ff90-49ce-b252-85d6193122d8",
+    "title": "remove the main diagonal from the value_df heatmap in _pvalue_heatmap graphs.py ",
+    "dateCreated": "1740999756941",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "928978e7-7614-4f4e-b5e2-451c150427da",
+    "title": "<think>\nOkay, so I need to come up with a",
+    "dateCreated": "1741015543156",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "6a2fccb8-c77c-42aa-ad4b-8ac245067144",
+    "title": "]",
+    "dateCreated": "1742984856939",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "0390200c-5538-4880-af0b-be04a0a99f4f",
+    "title": "rephrase this in the style of a high level documentation guide on a software project",
+    "dateCreated": "1743421850439",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "245d5e99-0345-4e73-aaeb-76c05ea48f22",
+    "title": "<think>\nAlright, let's tackle this user query step by",
+    "dateCreated": "1743421986014",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "5985dc17-2839-4008-8873-2dcbad0ee04a",
+    "title": "modify the above cell to inlcude a temporary named directory as argument to the begin method",
+    "dateCreated": "1743427533371",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "b31dcf83-f0b8-412d-9e32-64d9d58fea15",
+    "title": "<think>\nOkay, so I have this problem where I'm",
+    "dateCreated": "1743935539470",
+    "workspaceDirectory": "file:///home/dimits/Documents/programming/convexopt"
+  },
+  {
+    "sessionId": "beac6076-04cb-4330-8ad0-86136b1ba12f",
+    "title": "<think>\nOkay, so I need to come up with a",
+    "dateCreated": "1744013480371",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "43c10d89-4422-4f5b-991a-37f7debfd537",
+    "title": "rewrite this in restructured text format",
+    "dateCreated": "1744014803908",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "1d320618-2da9-4e75-9bf1-cfd1cd041fce",
+    "title": "<think>\nOkay, so I'm trying to come up with",
+    "dateCreated": "1744015157643",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "80213282-ab30-4343-a8a7-26d812d16ad6",
+    "title": "<think>\nOkay, so I'm trying to come up with",
+    "dateCreated": "1744015214409",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "8b8c0aff-ec24-4fc0-85ed-254f36c93b37",
+    "title": "<think>\nOkay, so I'm trying to figure out how",
+    "dateCreated": "1744016509978",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "92e6af54-9afb-4848-8b5d-d08bb2cc42cb",
+    "title": "<think>\nOkay, so I need to come up with a",
+    "dateCreated": "1744016675395",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "8f24b551-ba59-4b64-a1b3-97e3c0d9059c",
+    "title": "<think>\nOkay, I need to come up with a chat",
+    "dateCreated": "1744016823483",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "1fc46b6f-c3e1-48a3-9a5d-5aa22191ee84",
+    "title": "<think>\nAlright, so I need to figure out a good",
+    "dateCreated": "1744016918762",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "3ba53ab3-e337-4c0f-8182-f636b9248e64",
+    "title": "<think>\nAlright, so I need to come up with a",
+    "dateCreated": "1744620108715",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "17e1c4ac-ce57-4dee-bd47-c8770ec245b6",
+    "title": "<think>\nOkay, so I need to figure out a title",
+    "dateCreated": "1744620192306",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "8991a6bf-d2c4-4466-9ea1-233c61bb3f85",
+    "title": "<think>\nOkay, so I'm trying to figure out what",
+    "dateCreated": "1744643222184",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "e8bf7236-0a9a-4c73-a2c3-c3396508ca63",
+    "title": "<think>\nAlright, so I'm trying to figure out how",
+    "dateCreated": "1744711727109",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "3c84470b-f9d0-472e-a4df-7a6edbccbda9",
+    "title": "<think>\nOkay, so I need to figure out how to",
+    "dateCreated": "1744712400272",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "165d693e-f59d-48e1-8ea4-97b351fe6c15",
+    "title": "<think>\nAlright, so I'm trying to figure out how",
+    "dateCreated": "1744712824903",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "429dd60f-3017-470d-a8b6-aedf5f25d80c",
+    "title": "<think>\nAlright, so the user has provided a table of",
+    "dateCreated": "1744713586708",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "1ad90c76-2ede-488a-96ad-260c44d520aa",
+    "title": "<think>\nOkay, so I have this LaTeX table that was",
+    "dateCreated": "1744714013319",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "4eaeeba5-5638-44e4-abe4-d76a7e1443f7",
+    "title": "==============================================================================",
+    "dateCreated": "1744714262072",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "109cf927-3c46-4660-8a61-654417826937",
+    "title": "<think>\nOkay, so I'm trying to figure out what",
+    "dateCreated": "1744714468219",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "7974cd6c-4a44-4fc5-8778-8d2334466297",
+    "title": "<think>\nOkay, I need to come up with a chat",
+    "dateCreated": "1744714645413",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "e2ac1c03-ed2d-4ca1-bae2-c5f44d547ef6",
+    "title": "<think>\nOkay, so I'm trying to figure out how",
+    "dateCreated": "1744790033905",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "2606ddfc-9c49-4a05-ab26-ddf16edfe278",
+    "title": "<think>\nOkay, so the user provided a query where they",
+    "dateCreated": "1744799102739",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "9f222b58-1cbc-4a8f-ad2c-2d0cf9b6c84b",
+    "title": "respond in ```latex",
+    "dateCreated": "1744799172571",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "28f8ba0e-9c50-492a-9924-f0998dc03eac",
+    "title": "<think>\nOkay, so I'm trying to figure out what",
+    "dateCreated": "1744809453431",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "b4c9967f-564b-4e55-bd96-19fae20b80d1",
+    "title": "<think>\nOkay, I'm looking at this query about creating",
+    "dateCreated": "1745311751323",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  },
+  {
+    "sessionId": "c6ec7bf5-97d6-4887-8f78-97c038ce4762",
+    "title": "sns.move_legend(ax, loc=\"center right\", bbox_to_anchor=(0.7, 0.5))",
+    "dateCreated": "1746014979931",
+    "workspaceDirectory": "file:///home/dimits/Documents/research/synthetic_moderation_experiments"
+  }
+]
