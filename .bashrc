@@ -24,8 +24,40 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-source ~/anaconda3/etc/profile.d/conda.sh
+# source ~/anaconda3/etc/profile.d/conda.sh  # commented out by conda initialize
 
 MY_CONFIGURATION_FILE="/home/dimits/scripts/aueb.ovpn"
 alias start_vpn="openvpn3 session-start --config ${MY_CONFIGURATION_FILE}"
 alias stop_vpn="openvpn3 session-manage --config ${MY_CONFIGURATION_FILE} --disconnect"
+
+alias dotfiles='/usr/bin/git --git-dir="$HOME/.dotfiles/" --work-tree="$HOME"'
+
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/dimits/conda/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/dimits/conda/etc/profile.d/conda.sh" ]; then
+        . "/home/dimits/conda/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/dimits/conda/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+
+# >>> mamba initialize >>>
+# !! Contents within this block are managed by 'mamba shell init' !!
+export MAMBA_EXE='/home/dimits/conda/bin/mamba';
+export MAMBA_ROOT_PREFIX='/home/dimits/conda';
+__mamba_setup="$("$MAMBA_EXE" shell hook --shell bash --root-prefix "$MAMBA_ROOT_PREFIX" 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__mamba_setup"
+else
+    alias mamba="$MAMBA_EXE"  # Fallback on help from mamba activate
+fi
+unset __mamba_setup
+# <<< mamba initialize <<<
