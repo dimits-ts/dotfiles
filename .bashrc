@@ -24,11 +24,15 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
+
+# =============== MY SCRIPTS ================
 # source ~/anaconda3/etc/profile.d/conda.sh  # commented out by conda initialize
 
 MY_CONFIGURATION_FILE="/home/dimits/scripts/aueb.ovpn"
 alias start_vpn="openvpn3 session-start --config ${MY_CONFIGURATION_FILE}"
 alias stop_vpn="openvpn3 session-manage --config ${MY_CONFIGURATION_FILE} --disconnect"
+
+alias start_llm="/home/dimits/.local/bin/textgen-portable-3.11-linux-cuda12.4/text-generation-webui-3.11/start_linux.sh"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
