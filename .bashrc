@@ -36,6 +36,8 @@ alias start_llm="/home/dimits/.local/bin/textgen-portable-3.11-linux-cuda12.4/te
 alias dotfiles='/usr/bin/git --git-dir="$HOME/.dotfiles/" --work-tree="$HOME"'
 dotfiles config status.showUntrackedFiles no
 
+alias yt-download="bash /home/dimits/scripts/yt-download.sh"
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/dimits/conda/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
